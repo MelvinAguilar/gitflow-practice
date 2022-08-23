@@ -1,6 +1,9 @@
 <div id="top"></div>
 <h1 align="center">Gitflow</h1>
 <p align="center">Resumen del taller de Git y Github</p>
+<br />
+
+![](assets/img/screenshot.png)
 
 <details>
   <summary>Contenidos</summary>
@@ -278,7 +281,7 @@ git checkout -b main
 
 2. Agregar etiqueta
 ```
-git tag -m v1.0.0 -m "tag-description"
+git tag -a v1.0.0 -m "tag-description"
 ```
 
 3. Publicar etiqueta
